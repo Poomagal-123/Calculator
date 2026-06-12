@@ -208,7 +208,7 @@ The Calculator Using Java AWT project successfully demonstrates the implementati
 5. Java GUI Development Tutorials
 
 ## Author
-
+Poomagal E
 Project Name : Calculator Using Java AWT
 Language     : Java
 Technology   : AWT
